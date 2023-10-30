@@ -1,0 +1,2 @@
+# CODSOFT_3
+I developed this CALCULATER using HTML CSS AND JAVASCRIPT
